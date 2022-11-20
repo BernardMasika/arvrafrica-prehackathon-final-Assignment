@@ -1,0 +1,11 @@
+Model Information:
+* title:	Freebie - Game Art: Plastic Bucket
+* source:	https://sketchfab.com/3d-models/freebie-game-art-plastic-bucket-d04d521bd0a049719f2199159e24d981
+* author:	Alex Filip (https://sketchfab.com/filip.alecsandru)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Freebie - Game Art: Plastic Bucket" (https://sketchfab.com/3d-models/freebie-game-art-plastic-bucket-d04d521bd0a049719f2199159e24d981) by Alex Filip (https://sketchfab.com/filip.alecsandru) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

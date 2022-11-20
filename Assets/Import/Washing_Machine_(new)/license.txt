@@ -1,0 +1,11 @@
+Model Information:
+* title:	Washing Machine (new)
+* source:	https://sketchfab.com/3d-models/washing-machine-new-82c91049303f4664a56cc0eaffa8d662
+* author:	nikita.bulgakov (https://sketchfab.com/bulgakov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Washing Machine (new)" (https://sketchfab.com/3d-models/washing-machine-new-82c91049303f4664a56cc0eaffa8d662) by nikita.bulgakov (https://sketchfab.com/bulgakov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

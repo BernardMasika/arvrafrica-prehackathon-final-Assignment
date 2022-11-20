@@ -1,0 +1,11 @@
+Model Information:
+* title:	table with things
+* source:	https://sketchfab.com/3d-models/table-with-things-e39f2e1a7af240da8403fee1e93bc81f
+* author:	padmadev2005 (https://sketchfab.com/padmadev20051)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "table with things" (https://sketchfab.com/3d-models/table-with-things-e39f2e1a7af240da8403fee1e93bc81f) by padmadev2005 (https://sketchfab.com/padmadev20051) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Light switch
+* source:	https://sketchfab.com/3d-models/light-switch-9884dce0039f4406b60f2af0cd7b0994
+* author:	Alex Birdman (https://sketchfab.com/gtvorets)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Light switch" (https://sketchfab.com/3d-models/light-switch-9884dce0039f4406b60f2af0cd7b0994) by Alex Birdman (https://sketchfab.com/gtvorets) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
