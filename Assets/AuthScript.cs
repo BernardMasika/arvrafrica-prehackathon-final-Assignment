@@ -12,17 +12,16 @@ public class AuthScript : MonoBehaviour
     public GameObject warningScreen;
     private float networthvalue;
     public Camera cam;
-    public int camDisplay;
     public Vector3 insideRotatedPosition;
     public Vector3 insideMovedPosition;
     public bool CityHouse;
     public bool VillageHouse;
-    public TMP_Text outputText;
+    // public TMP_Text outputText;
     public float onFocusDistance;
     // Start is called before the first frame update
     void Start()
     {
-        cam.targetDisplay = camDisplay;
+   
     }
 
     public void ClickToLogin()
@@ -46,7 +45,7 @@ public class AuthScript : MonoBehaviour
 
         if (string.IsNullOrWhiteSpace(netWorth.text))
         {
-            outputText.text = "Please enter Your NetWorth Value!";
+            // outputText.text = "Please enter Your NetWorth Value!";
             Debug.Log("invalid input");
         } 
         else
@@ -71,11 +70,12 @@ public class AuthScript : MonoBehaviour
 
     private void LoginUserVillageHouse()
     {
-        //cam.transform.DOMoveX(60.2f, 0.8f);
-        //cam.transform.DOMoveY(-3.5f, 0.5f);
-        //cam.transform.DOMoveZ(164.4f, 0.5f);
+  
+
+         cam.transform.DOMove(insideMovedPosition, 1f);
+        // (-1.867,-191,-1.787)
         cam.transform.DORotate(insideRotatedPosition, 2f);
-        cam.transform.DOMove(insideMovedPosition, 1f);
+      
     }
 
     private void LoginUserCityHouse()
@@ -83,7 +83,7 @@ public class AuthScript : MonoBehaviour
         cam.transform.DOMoveX(13f, 0.8f);
         cam.transform.DOMoveY(7.8f, 0.5f);
         cam.transform.DORotate(insideRotatedPosition, 2f);
-        cam.transform.DOMove(insideMovedPosition, 1f);
+         cam.transform.DOMove(insideMovedPosition, 1f);
     }
 
     private void NotEligible()
